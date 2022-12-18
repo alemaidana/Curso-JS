@@ -1,0 +1,139 @@
+Objetivo
+
+-Mostrar mediante estadisticas y comparaciones como los distintos tipos de alumnos y trayectos de formacion profesional
+comparando carreras, nivel socioeconomico y ver la incidencia del mismo en la conclusion de los trayectos.
+
+-Para realizar esto se tomaron varias muestras en las diferentes aulas
+-Se utilizaron graficos, tablas de frecuencia, encuestas y reuniones por meet.
+-solo se excluyeron los resultados de la carrera redes de computadora que fue cerrada a mitad del ciclo.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+****Tasa de Empleo de los estudiantes****:
+
+Programacion
+
+Porque comenzamos marcando esta estadistica como principal y punto de partida ? Pues el factor "bolsillo"
+como lo llamamos en nuestro pais es un detalle muy importante a la hora de buscar un trayecto de formacion
+para estudiar, pues este sera el que modelara el futuro del individuo en el ambito de inclusion laboral y
+desarrollo del mismo.
+Comencemos viendo a los alumnos de programacion, del total de alumnos el 41% esta desempleado, mientras que del total
+solo el 11% tiene un empleo en blanco.
+Cuando se le pregunto a los alumnos porque habian decidido comenzar a estudiar este trayecto con unanimidad se impuso 
+el ganar un sueldo mejor en el sector privado sobre desarrollo personal y emprendimiento propio:
+
+sueldo mejor -> 30
+desarrollo personal ->5
+emprendimiento propio ->2 
+
+Electricidad
+
+En cambio los alumnos del trayecto de electricidad muestran estadisticas completamente distintas, la tasa de desempleo es altisima, alcanza un 63%, y la tasa de empleo registrado es solo de 6%, la mas baja en los tres grupos, cuando se le pregunto a los alumnos de
+este trayecto el porque se decidieron a estudiar esto los estudiantes respondieron
+
+sueldo mejor -> 5
+desarrollo personal ->5
+emprendimiento propio ->12 
+
+Por esto podemos entender que este grupo es un grupo con mas iniciativa autonoma que el anterior, el objetivo es buscar un oficio que los consolide y los inserte en el mercado laboral activo lo mas rapido posible, en este caso hay un grupo muy alto con iniciativas de desarrollar sus propios servicios como autonomos a trabajar en el sector privado bajo dependencia.
+
+Ahora viene quizas el grupo mas asincrono de todos que es el trayecto de Marketing Digital este grupo presenta estadisticas muy distintas frente a todos los demas grupos y es que no solo presenta la tasa de desempleo mas baja sino que tambien la tasa de empleo registrada mas alta. ¿ Pero porque se da este factor ? despues entenderemos este fenomeno con unas estadisticas mas precisas, pero hasta tanto veamos el motivo por el cual se han inscripto:
+
+sueldo mejor -> 10
+desarrollo personal -> 2
+emprendimiento propio -> 10
+
+En la siguiente fase entenderemos mejor este fenomeno y se desarrollara con mejor entendimiento, pero hasta aqui veamos que de los 3 grupos este es el grupo con mayor tasa de gente empleada ya se formal o no con un total de 64%. 
+
+Conclusion-> Estar empleado o no esta directamente relacionado al trayecto que estudiemos, si bien hay una gran mayoria que quiere un sueldo mejor ya sea de su trabajo formal o la denominada 'changa' mucha gente esta dispuesta a trabajar de forma autonoma lo que es algo favorable para el empleo ya que un equipo de programadores pueden trabajar en un proyecto, o varios electricistas pueden formar una empresa o varios estudiantes de marketing pueden brindar asesorias de ventas. Pero esto tambien nos indica que muy poca gente va por motus propio, solo 12 personas del total estan ahi porque realmente quieren, y eso es un factor a tener en cuenta.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+****Tasa de Finalizacion de Estudios Secundarios****:
+
+Este estudio nos sirve para comprender varios fenomenos y entender varios porque de cada trayecto
+
+¿Porque programacion?
+
+Programacion a diferencia de las otras carreras es de caracter obligatorio haber terminado el colegio secundario y solo permiten cursarlo a alumnos del ultimo año del secundario tecnico con orientacion en informatica, otro requerimiento es tener idea de como usar una computadora, no excluyente pero si ideal, pero seguimos sin responder porque un trayecto en programacion ? 
+
+no me siento listo para un terciario -> 8
+me da miedo la universidad -> 5
+me interesa mas rapida insercion laboral ->24
+
+Si bien hay un grupo reducido que no se siente listo para afrontar la educacion formal, hay otro grupo mayoritario que solo quiere una rapida insercion laboral debido al boom de la programacion como salvacion que imparten los medios hegemonicos, tema que se discutio en una reunion con el profesor de programacion y desmentido por el mismo, ya que un programador con solo unos meses de cursada no esta apto para salir al mercado laboral. 
+
+¿Porque Electricidad?
+
+Electricidad sin embargo el unico requisito es tener el primario completo y a diferencia de programacion es el unico que tiene una salida laboral rapida despues de finalizar el trayecto y a la vez tiene una articulacion para ser montador electricista matriculado con otro instituto de formacion profesional. Si entramos en detalle como muestran la estadisticas el promedio de edad de los estudiantes es el mas alto pero con una alta tasa combinada de formacion secundaria no terminada o en curso.
+
+¿Porque Marketing Digital?
+
+Aqui tenemos un fenomeno particular, este trayecto al igual que electricidad no requiere el secundario completo, pero no tiene estudiantes que no hayan terminado el secundario, solo hay 3 alumnos en curso los cuales son del colegio donde se imparte el curso porque esos mismos estudiaran la carrera a nivel universitario, por lo cual pueden cursar el trayecto. Pero para explicar mejor el fenomeno que dejamos inconcluso tenemos que entender esto:
+
+Necesitan certificacion competente para el trabajo -> 9
+Mejorar las ventas de emprendimiento -> 8
+desarrollo marca personal -> 5
+
+Empleados de Comercio -> 16/16
+
+Marketing digital funciona como un 'boost' para el rubro comercial, ya que el 100% de los empleados registrados como no registrados trabaja en ese area y es un 'must know' en los dias de hoy el vender online y no solo vender sino saber como vender. Muchos ascensos para estos trabajadores dependen de que tanto puedan vender en un mes, trimestre o año. Por esto mismo la mayoria de los estudiantes de este trayecto son trabajadores registrados.
+
+
+Conclusion-> Por el lado de programacion y electricidad mucha gente quiere una rapida insercion laboral pero lo que difiere de estas dos carreras es que el electricista logra autonomia mas rapido y puede insertarse mucho mas rapido que el programador, programacion entra esta casilla de forma indirecta gracias a la falsa publicidad de los medios, porque es muy poco probable que con un curso de meses se logre una insercion rapida en el mundo IT. Para explicar mejor el fenomeno Marketing digital, entendendemos que ellos ya trabajan y algunos cursan una carrera formal lo cual el conocimiento que logren adquirir va a mejorar su carrera o trabajo.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+****Tasa de Esperanza de Empleabilidad****
+
+Con este indice lo que tratamos de saber es cual es la esperanza de los grupos al concluir el trayecto de formacion profesional, si deciden al concluir el mismo trabajar para el sector privado o de forma autonoma.
+
+Programacion
+
+El 68% de los Alumnos quiere trabajar bajo relacion de dependencia en una empresa formal con todos los beneficios que estas traen, mientras que solo un 22% quiere trabajar por su cuenta, montar su propio emprendimiento relacionado a la programacion mientras que el resto no esta decicidido todavia.
+
+Electricidad
+
+Aqui el 70% de los Alumnos quieren o se ven trabajando de forma autonoma, solo un porcentaje muy bajo se ve trabajando en forma de relacion de dependencia como asi tambien ese porcentaje de que no se decidio todavia es muy bajo.
+
+Marketing Digital
+
+Aqui las cosas estan parcialmente casi igualadas, se impone con el 55% el trabajo en relacion de dependencia frente al autonomo y esto nos da una pauta que no hay grises a la hora de lo que esperan cuando terminan este trayecto. Y que se apuesta fuertemente al emprendimiento propio ya que incluye mas materias de formacion personal que las otras.
+
+CONCLUSION -> Este estudio nos ayuda a comprender mejor a donde apunta laboralmente el estudiante cuando concluya su trayecto sabemos que los estudiantes de programacion apostaran fuertemente a aplicar a busquedas en el sector privado o estatal, mientras que los alumnos de electricidad trabajaran por su cuenta como electricistas domiciliarios y por el lado de marketing digital este factor es indistinto ya que los alumnos quieren desarrollarse casi de forma igual en ambos campos laborales.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+****Tasa de Egresos de cada Carrera****
+
+Como podemos ver en los graficos, vamos a entenderlos un poco mejor y leer los datos, vamos a analizar el porcentaje de alumnos recibidos de cada trayecto:
+
+Marketing Digital -> 68%
+Programacion -> 32%
+Electricidad -> 62%
+
+Son porcentajes muy bajos pero a la vez los estandares normales del centro de formacion, y para entender mejor este fenomeno hay un detalle muy influyente en este estudio que todavia no lo hemos tomado como factor, pero que delimita este estudio en particular y es el horario, segun la articulacion de los Salesianos con el GCBA ellos ponen a disposicion el CFP pero el horario que funciona es de 17hs a 20:30hs. Segun Santiago Carballo Jefe del Area Alumnos del CFP en una entrevista realizada ha comentado lo siguiente:
+
+"El CFP brinda cursos de excelente calidad con grandes docentes bien formados para el area, los indices de egreso son los esperados pero hay un punto de desercion que es el horario ya que cuando los alumnos consiguen un trabajo usualmente son hasta las 18hs o por la noche lo cual ya no pueden asistir".
+
+Aqui viene el trabajo mas arduo de esta investigacion, saber los motivos de la desercion sin tomar en cuenta el factor horario. Este trabajo arrojo estos resultados:
+
+En un meet se hizo una reunion general:
+
+Podemos decir que el factor que mas predomina es la falta de un estimulo mensual, le sigue dificultades laborales y por ultimo problemas en el aprendizaje; y vamos a desmenuzar el porque de cada uno
+
+Cuando se pregunto sobre el estimulo mensual, la gran mayoria necesitaba percibir un estimulo por los viajes, debido a que muchos de estos viven en el conurbano o lugares alejados del cfp por lo que necesitaban viajar mas.
+
+Cuando se trato el tema de dificultades laborales muchos han desertado porque ya no los dejaban salir antes del trabajo o entrar mas tarde al mismo por el trayecto
+
+Y en cuanto a las dificultades de aprendizaje estas se han dado mas que nada por las concurrentes faltas a clase.
+
+CONCLUSION -> Estos estudios nos ayudaron a entender porque los alumnos no se reciben, quizas un estimulo minimo mensual seria de mucha ayuda para cambiar estas estadisticas como asi mismo una rotacion de horarios mas flexible para los trabajadores y para los desempleados para que puedan a la par que estudian generar ingresos, el cambio de estas variables seria significativo para que se permita bajar la tasa de desercion.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Conclusion final -> Todos estos factores son muy importantes, y analizar estos nos das un mejor entendimiento del contexto de la educacion no formal, como autor creo que deberian realizarse estudios en todos los CFP y creo que el estado o el GCBA o la autoridad competente debe acompañar a los estudiantes ya sea con algun estimulo economico para el transporte ya que el publico que atiende a estos cfp son la gente mas vulnerable con un estrato socio economico inferior al de un terciario o una universidad, si encontramos factores que rompen los esquemas como ha sido el caso de Marketing digital, pero este se repetira en todos los CFP ? Por eso creo que debemos reeplantearnos no el acompañamiento docente o institucional sino el acompañamiento por parte de las autoridades gubernamentales hacia los alumnos porque esta probado que mas educacion genera mas empleo y mas empleados calificados y educados enriquecen al pueblo.
+
+
+
