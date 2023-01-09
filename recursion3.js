@@ -4,12 +4,15 @@ function countdown(n) {
         
         return [];
     }
-    
-    const arreglo = 
-    countdown(n - 1);
 
-    arreglo.push(n--);
+    let arreglo = countdown(n-1);
+
+    arreglo.unshift(n);
 
     return arreglo;
+
   }
-  console.log(countdown(5));
+
+  
+console.log(countdown(5));
+console.log(countdown(-1));

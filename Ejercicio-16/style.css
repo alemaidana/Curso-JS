@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+}
+
+
+.seccion{
+    background-color: darkslategray;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.parrafo{
+    background-color: antiquewhite;
+    padding: 1rem;
+}
+
+.boton_reset {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    background: #588eb3;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 20px 30px;
+}
+  
+.boton_reset:hover {
+    background: #195478;
+    text-decoration: none;
+}
