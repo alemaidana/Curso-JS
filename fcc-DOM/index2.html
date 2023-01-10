@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dom2</title>
+
+    <style>
+        .container{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        h1{
+            text-align: center;
+        }
+
+        .box{
+            border: solid 1px black;
+            border-radius: 10px;
+            margin: 10px 20px;
+            padding: 10px;
+        }
+
+        .btn{
+            -webkit-border-radius: 28;
+            -moz-border-radius: 28;
+            border-radius: 28px;
+            font-family: Georgia;
+            color: #ffffff;
+            font-size: 20px;
+            background: #588eb3;
+            padding: 10px 20px 10px 20px;
+            text-decoration: none;
+            margin: 20px 30px;
+        }
+
+    </style>
+
+
+</head>
+<body>
+    
+<h1>Event Listener</h1>
+
+<div class="container">
+
+    <div class="box">
+        <h1>Example 1</h1>
+        <button class="btn">Enter</button>
+    </div>
+    
+    <div class="box">
+        <h1>Example 2</h1>
+        <button class="btn">Enter</button>
+    </div>
+    
+    <div class="box" id="box-3">
+        <h1>Example 3</h1>
+        <button class="btn" id="btn-1">Enter</button>
+    </div>
+
+
+</div>
+
+
+
+<script>
+
+const boton3 = document.querySelector("#btn-1");
+const fondo_3 = document.querySelector("#box-3");
+
+
+boton3.addEventListener("click", () => {
+    alert("I love Javascript");
+});
+
+fondo_3.addEventListener("mouseover", () => {
+    fondo_3.style.backgroundColor = "lightblue";
+})
+
+</script>
+</body>
+</html>

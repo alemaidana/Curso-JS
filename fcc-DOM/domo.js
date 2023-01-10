@@ -27,3 +27,7 @@ boton2.addEventListener( "click", () => {
     lista.removeChild(lista.lastElementChild);
 
 })
+
+//console.log(lista.childNodes);
+
+//lista.childNodes[5].style.backgroundColor = "red";

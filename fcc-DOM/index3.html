@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dom 3</title>
+
+    <style>
+
+        .container{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            border: solid 1px black;
+            border-radius: 10px;
+            margin: 10px 20px;
+            padding: 10px;
+        }
+        
+        h1{
+            text-align: center;
+        }
+
+        .btn{
+            -webkit-border-radius: 28;
+            -moz-border-radius: 28;
+            border-radius: 28px;
+            font-family: Georgia;
+            color: #ffffff;
+            font-size: 20px;
+            background: #588eb3;
+            padding: 10px 20px 10px 20px;
+            text-decoration: none;
+            margin: 20px 30px;
+        }
+
+        .reveal-box{
+            display: none;
+        }
+
+        .reveal-box.btn{
+            display: block;
+        }
+
+    </style>
+
+</head>
+<body>
+ 
+    <h1 class="title">Event Listeners 2</h1>
+
+    <div class="container">
+
+    <button class="btn">Reveal More</button>
+    
+    <div class="reveal-box">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Exercitationem nobis dolores voluptates quasi perferendis ab quo soluta, 
+        incidunt numquam rerum consectetur eveniet sed qui amet? Architecto nostrum fugit quae et!
+    </div>
+    
+
+
+</div>    
+
+
+<script>
+
+const boton_ver = document.querySelector(".btn");
+const ver_texto = document.querySelector(".reveal-box");
+
+boton_ver.addEventListener("click", () => {
+
+    if(ver_texto.classList.contains("reveal-box")){
+        
+        ver_texto.classList.remove("reveal-box");
+
+    }else{
+     
+        ver_texto.classList.add("reveal-box");
+
+    }
+
+})
+
+
+
+</script>
+</body>
+</html>

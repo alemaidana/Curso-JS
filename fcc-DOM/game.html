@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stupid Game</title>
+
+    <style>
+        .map{
+            background-color: lightblue;
+            width: 50vw;
+            height: 50vh;
+            position: relative;
+            margin: 0 auto;
+        }
+
+        .obj{
+            background-color: black;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+        }
+
+        .controles{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            
+        }
+
+    </style> 
+
+</head>
+<body>
+    
+    <div class="map">
+
+        <div class="obj"></div>
+
+    </div>
+
+
+    <div class="controles">
+        <div class="control-arriba">
+            <button class="arriba">Arriba</button>
+        </div>
+
+        <div class="control-izq-der">
+            <button class="izquierda">izquierda</button>
+            <button class="derecha">Derecha</button>
+
+        </div>
+
+        <div class="control-abajo">
+            <button class="abajo">Abajo</button>
+        </div>
+    </div>
+
+<script>
+//objetos
+const objeto = document.querySelector('.obj');
+//botones
+const boton_arriba = document.querySelector('.arriba');
+const boton_abajo = document.querySelector('.abajo');
+const boton_izquierda = document.querySelector('.izquierda');
+const boton_derecha = document.querySelector('.derecha');
+
+//acciones
+boton_abajo.addEventListener("click", () => {
+    objeto.style.bottom = "60px";
+})
+
+boton_arriba.addEventListener("click", () => {
+    objeto.style.top = "60px";
+})
+
+boton_izquierda.addEventListener("click", () => {
+    objeto.style.left = "60px";
+})
+
+boton_derecha.addEventListener("click", () => {
+    objeto.style.right = "60px";
+})
+
+</script>
+
+
+</body>
+</html>

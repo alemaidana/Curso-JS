@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dom2</title>
+
+    <style>
+        .container{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        h1{
+            text-align: center;
+        }
+
+        .sports{
+            border: solid 1px black;
+            border-radius: 10px;
+            margin: 10px 20px;
+            padding: 10px;
+        }
+
+        li{
+            border: solid 1px black;
+            border-radius: 10px;
+            margin: 10px 20px;
+            padding: 10px;
+            list-style-type: none;
+            text-align: center;
+        }
+
+        .btn{
+            -webkit-border-radius: 28;
+            -moz-border-radius: 28;
+            border-radius: 28px;
+            font-family: Georgia;
+            color: #ffffff;
+            font-size: 20px;
+            background: #588eb3;
+            padding: 10px 20px 10px 20px;
+            text-decoration: none;
+            margin: 20px 30px;
+        }
+
+    </style>
+
+
+</head>
+<body>
+    
+<h1>Event Listener 4</h1>
+
+<div class="container">
+
+    <ul class="sports">
+
+        <li class="Football">Football</li>
+        <li class="Basketball">Basketball</li>
+        <li class="Boxing">Boxing</li>
+        <li class="Tennis">Tennis</li>
+        <li class="Golf">Golf</li>
+
+    </ul>
+    
+</div>
+
+
+
+<script>
+
+const deporte = document.querySelector(".sports");
+
+deporte.addEventListener("click", (evento) => {
+
+        console.log("clickeando " + evento.target.getAttribute("class"));
+
+        if(evento.target.matches("li")){
+
+            evento.target.style.backgroundColor = "lightblue";
+
+        }   
+
+})
+
+function agregar_deporte(nuevo_deporte){
+
+    const nuevo = document.createElement("li");
+    
+    nuevo.innerText = nuevo_deporte;
+    nuevo.setAttribute("class", nuevo_deporte);
+
+    deporte.appendChild(nuevo);
+}
+
+agregar_deporte("Handball");
+agregar_deporte("Paddle");
+
+</script>
+</body>
+</html>
